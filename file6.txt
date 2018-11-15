@@ -1,0 +1,8 @@
+Code description:
+Execute this Pipeline or any of its stages, on any available agent.
+Defines the "Build" stage.
+Perform some steps related to the "Build" stage.
+Defines the "Test" stage.
+Perform some steps related to the "Test" stage.
+Defines the "Deploy" stage.
+Perform some steps related to the "Deploy" stage.
