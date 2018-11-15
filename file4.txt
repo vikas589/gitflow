@@ -1,0 +1,3 @@
+The following Pipeline code skeletons illustrate the fundamental differences between Declarative Pipeline syntax and Scripted Pipeline syntax.
+
+Be aware that both stages and steps (above) are common elements of both Declarative and Scripted Pipeline syntax
