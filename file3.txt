@@ -1,0 +1,1 @@
+The flowchart below is an example of one CD scenario easily modeled in Jenkins Pipeline
