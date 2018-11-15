@@ -1,0 +1,1 @@
+In Declarative Pipeline syntax, the pipeline block defines all the work done throughout your entire Pipeline
